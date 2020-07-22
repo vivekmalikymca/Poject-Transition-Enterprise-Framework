@@ -51,6 +51,7 @@ Define tags and assign to add further information to any component.
 - Source code repository R
 - Change repository R
 - Document repository R
+- Quality docs repository R
 
 **Communication component**
 
@@ -61,4 +62,29 @@ Define tags and assign to add further information to any component.
 
 - Retiring old team access after handover and takeover
 - Raising requests for access to all team members
+
+
+## 4. Knowledge Sharing
+Includes knowledge transition plan.
+
+Output :
+- Recorded sessions 
+- Documents
+
+## 5. Build, Validate & Run
+Includes project setup, end to end validation including project running in all environments.
+
+Output :
+- Setup and deployment procedure
+- Quality check
+- Organization principals and security checklist validation
+
+## 6. Governance and Takeover
+This phase includes implementation of governance with roles and responsibilities. Finally, execution of handover and takeover as per organization process takes place.
+
+Output :
+- Maintenance and operations plan
+- Support activities
+- New Team 
+- Retire old team
 
