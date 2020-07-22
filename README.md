@@ -4,7 +4,7 @@ A component based modular enterprise framework for project transition.
 ![alt txt](Assets/PTT.png)
 
 
-Before starting you must understand the modular and agile nature of PTT framework. It is recommended that you could define every phase and every components as per project demand. Nothing is here that could not be altered. Please free to design your own and inherits what suits bets to you.
+Before starting you must understand the modular and agile nature of PTT framework. It is recommended that you could define every phase and every components as per project demand. Nothing is here that could not be altered. Feel free to design your own components and inherits what fits best to you.
 ## 1. Framework initiation and planning 
 This phase includes initiation of all components and end to end plan for project transition in place. 
 ** this framework support agile methodology so feel free to use with every phase and component.
