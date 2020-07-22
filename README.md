@@ -1,10 +1,7 @@
-# PTT
-## Poject-Transition-Enterprise-Framework
-A component based Modular Enterprise framework for Project Transition.
+# PTEF - Project-Transition-Enterprise-Framework
+A component based modular enterprise framework for project transition.
 
-
-
-
+![alt txt](Assets/PTT.png)
 
 
 Before starting you must understand the modular and agile nature of PTT framework. It is recommended that you could define every phase and every components as per project demand. Nothing is here that could not be altered. Please free to design your own and inherits what suits bets to you.
