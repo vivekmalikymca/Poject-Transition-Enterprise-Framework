@@ -1,4 +1,4 @@
-# PTEF - Project-Transition-Enterprise-Framework
+# PTEF : Project Transition Enterprise Framework
 A component based modular enterprise framework for project transition.
 
 ![alt txt](Assets/PTT.png)
